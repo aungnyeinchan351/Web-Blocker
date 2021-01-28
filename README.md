@@ -18,7 +18,7 @@ sudo apt install python
 sudo apt install git
 sudo apt install python3 -pip
 pip3 install pyfiglet
-git clone
+git clone https://github.com/aungnyeinchan351/Web-Blocker.git
 ```
 ### Installation on windows
 
@@ -26,13 +26,13 @@ Windows တွင် install ပြုလုပ်နည်း
 
 First, install [Python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads). Then, open the command prompt (CMD) as administrator. (To run cmd as administrator, press Window logo key+R. This will open a box and type "cmd" in it. Then press Ctrl + Shift + Enter)
 
-ပထမဆုံး python နဲ့ git ကို install လုပ်ပါ။ပြီးရင် cmd ကို administrator အနေနဲ့ Run ပါ။(cmd ကို administrator အနေနဲ့ run ဖို့ Windows logo key+R တွဲနှိပ်ပါ။box တစ်ခုပွင့်လာမည်။ထို box ထဲတွင် cmd ဟုရိုက်ထည့်ပြီး Ctrl +Shift + Enter နှိပ်ပါ။
+ပထမဆုံး [python](https://www.python.org/downloads/) နဲ့ [git](https://git-scm.com/downloads) ကို install လုပ်ပါ။ပြီးရင် cmd ကို administrator အနေနဲ့ Run ပါ။(cmd ကို administrator အနေနဲ့ run ဖို့ Windows logo key+R တွဲနှိပ်ပါ။box တစ်ခုပွင့်လာမည်။ထို box ထဲတွင် cmd ဟုရိုက်ထည့်ပြီး Ctrl +Shift + Enter နှိပ်ပါ။
 
 After all, type the following command
 
 အားလုံးပြီးရင်တော့အောက်ပါ command ကိုရိုက်ပါ။
 ```
-git clone
+git clone https://github.com/aungnyeinchan351/Web-Blocker.git
 ```
 Usage 
 အသုံးပြုပုံ
