@@ -35,4 +35,59 @@ After all, type the following command
 git clone https://github.com/aungnyeinchan351/Web-Blocker.git
 ```
 Usage 
+
 အသုံးပြုပုံ
+
+Open your terminal(for linux) or command prompt(for windows), type the following commands
+
+Terminal(linux အတွက်) သို့မဟုတ် command prompt(windows အတွက်) ကိုဖွင့်ပါ။အောက်ပါ commands များကိုရိုက်ပါ။
+```
+cd Web-Blocker
+python3 web_blocker.py
+```
+You will see like this.
+
+သင်ဒီလိုမြင်ရပါလိမ့်မယ်။
+
+```
+__        __   _       ____  _            _             
+\ \      / /__| |__   | __ )| | ___   ___| | _____ _ __ 
+ \ \ /\ / / _ \ '_ \  |  _ \| |/ _ \ / __| |/ / _ \ '__|
+  \ V  V /  __/ |_) | | |_) | | (_) | (__|   <  __/ |   
+   \_/\_/ \___|_.__/  |____/|_|\___/ \___|_|\_\___|_|   
+                                                        
+
+Enter Websites to block. Enter (0) to stop.
+```
+Enter websites you want to block as mush as you want. If you want to stop, type "0".
+
+သင် block ချင်တဲ့ website တွေကိုသငါအလိုရှိသလောက်ရိုက်ထည့်ပါ။တော်ပြီဆိုရင်တော့ 0 လို့ရိုက်ထည့်ပါ။
+```
+What do you want to do?
+1. Block  2. Unblock
+```
+Select an option. 
+
+Option တစ်ခုကိုရွေးပါ။
+
+```
+__        __   _       ____  _            _             
+\ \      / /__| |__   | __ )| | ___   ___| | _____ _ __ 
+ \ \ /\ / / _ \ '_ \  |  _ \| |/ _ \ / __| |/ / _ \ '__|
+  \ V  V /  __/ |_) | | |_) | | (_) | (__|   <  __/ |   
+   \_/\_/ \___|_.__/  |____/|_|\___/ \___|_|\_\___|_|   
+                                                        
+
+Enter Websites to block. Enter (0) to stop.
+www.facebook.com
+0
+What do you want to do?
+1. Block  2. Unblock
+2
+Success!
+```
+Now, open your browser and go to the websites you block. you will see like this. You cannot open this website untill you unblock them.
+
+အခုသင့်ရဲ့ browser ကိုဖွင့်ပြီးသင် block ထားတဲ့ website တွေကိုသွားကြည့်ပါအုံး။သင်ဒီလိုပဲမြင်ရပါလိမ့်မယ်။သင် Unblock ပြန်မလုပ်မချင်ဒီ websites တွေကိုဖွင့်လို့ရမှာမဟုတ်ပါဘူး။
+
+
